@@ -6,27 +6,10 @@ Taller
   <meta charset="UTF-8">
   <title>Taller CRUD - KD Electronics</title>
   <style>
-    body { font-family: Arial, sans-serif; margin: 20px; line-height: 1.6; }
-    h1, h2 { color: #2c3e50; }
-    pre { background: #f4f4f4; padding: 10px; border-radius: 5px; overflow-x: auto; }
-    .section { margin-bottom: 40px; }
-    img { max-width: 100%; margin: 10px 0; }
-  </style>
-</head>
-<body>
-  <h1>Taller de creación de CRUD - KD Electronics</h1>
-  <p>Este taller implementa un sistema de gestión de inventario con un módulo de productos. Se desarrolla un CRUD (Create, Read, Update, Delete) en Java.</p>
+    
+  
 
-  <div class="section">
-    <h2>📦 Caso</h2>
-    <p>La empresa KD-Electronics vende productos electrónicos y requiere un sistema para gestionar su inventario. El módulo de productos debe permitir:</p>
-    <ul>
-      <li>Registrar nuevos productos (Create).</li>
-      <li>Consultar productos por código (Read).</li>
-      <li>Actualizar información (Update).</li>
-      <li>Eliminar lógicamente productos (Delete).</li>
-    </ul>
-  </div>
+  
 
   <div class="section">
     <h2>📂 Clase Producto</h2>
@@ -119,20 +102,7 @@ public class ProductoDAO {
 </code></pre>
   </div>
 
-  <div class="section">
-    <h2>📸 Capturas y UML</h2>
-    <p>Aquí puedes insertar tus capturas de pantalla del proyecto en NetBeans/Eclipse y el diagrama UML.</p>
-    <img src="diagrama-uml.png" alt="Diagrama UML CRUD">
-  </div>
+  
 
   <div class="section">
-    <h2>✅ Resultados esperados</h2>
-    <ul>
-      <li>Registro exitoso de producto.</li>
-      <li>Consulta muestra nombre inicial.</li>
-      <li>Actualización refleja cambios en descripción.</li>
-      <li>Eliminación lógica devuelve <code>null</code> en la consulta.</li>
-    </ul>
-  </div>
-</body>
-</html>
+    
